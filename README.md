@@ -4,7 +4,11 @@ An interactive calculator of the optimal strategy for one turn of **Cubilete**, 
 exactly by dynamic programming. It was built for the MATH4045 group report
 *"Cubilete: What is the optimal strategy?"* (University of Nottingham).
 
-**Live page:** https://maoyidingnb-png.github.io/cubilete/
+**▶ Run the calculator in your browser:**
+https://raw.githack.com/maoyidingnb-png/cubilete/main/index.html
+
+(The link serves `index.html` from this repository directly, so nothing needs to be
+installed. You can also download `index.html` and open it locally.)
 
 ---
 
